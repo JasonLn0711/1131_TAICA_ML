@@ -1,0 +1,277 @@
+Initial Outliers Detected: 10955
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/tsa/statespace/sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
+  warn('Non-stationary starting autoregressive parameters'
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/tsa/statespace/sarimax.py:978: UserWarning: Non-invertible starting MA parameters found. Using zeros as starting parameters.
+  warn('Non-invertible starting MA parameters found.'
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+Logistic Regression - Accuracy: 0.5139854486661277
+Decision Tree - Accuracy: 0.5524656426839127
+Initial Mondrian Forest Approximation - Accuracy: 0.555375909458367
+Batch 1 Accuracy before update: 0.64
+Batch 1 Accuracy after update: 0.92
+Batch 2 Accuracy before update: 0.68
+Batch 2 Accuracy after update: 0.98
+Batch 3 Accuracy before update: 0.54
+Batch 3 Accuracy after update: 0.96
+Batch 4 Accuracy before update: 0.60
+Batch 4 Accuracy after update: 1.00
+Batch 5 Accuracy before update: 0.60
+Batch 5 Accuracy after update: 0.98
+Batch 6 Accuracy before update: 0.56
+Batch 6 Accuracy after update: 0.96
+Batch 7 Accuracy before update: 0.52
+Batch 7 Accuracy after update: 1.00
+Batch 8 Accuracy before update: 0.62
+Batch 8 Accuracy after update: 1.00
+Batch 9 Accuracy before update: 0.50
+Batch 9 Accuracy after update: 0.96
+Batch 10 Accuracy before update: 0.66
+Batch 10 Accuracy after update: 0.96
+Batch 11 Accuracy before update: 0.48
+Batch 11 Accuracy after update: 0.98
+Batch 12 Accuracy before update: 0.70
+Batch 12 Accuracy after update: 1.00
+Batch 13 Accuracy before update: 0.60
+Batch 13 Accuracy after update: 0.96
+Batch 14 Accuracy before update: 0.50
+Batch 14 Accuracy after update: 0.96
+Batch 15 Accuracy before update: 0.52
+Batch 15 Accuracy after update: 1.00
+Batch 16 Accuracy before update: 0.68
+Batch 16 Accuracy after update: 0.96
+Batch 17 Accuracy before update: 0.72
+Batch 17 Accuracy after update: 0.98
+Batch 18 Accuracy before update: 0.72
+Batch 18 Accuracy after update: 1.00
+Batch 19 Accuracy before update: 0.66
+Batch 19 Accuracy after update: 0.96
+Batch 20 Accuracy before update: 0.84
+Batch 20 Accuracy after update: 1.00
+Batch 21 Accuracy before update: 0.66
+Batch 21 Accuracy after update: 1.00
+Batch 22 Accuracy before update: 0.62
+Batch 22 Accuracy after update: 0.98
+Batch 23 Accuracy before update: 0.64
+Batch 23 Accuracy after update: 0.98
+Batch 24 Accuracy before update: 0.56
+Batch 24 Accuracy after update: 1.00
+Batch 25 Accuracy before update: 0.66
+Batch 25 Accuracy after update: 0.98
+Batch 26 Accuracy before update: 0.58
+Batch 26 Accuracy after update: 1.00
+Batch 27 Accuracy before update: 0.62
+Batch 27 Accuracy after update: 0.98
+Batch 28 Accuracy before update: 0.64
+Batch 28 Accuracy after update: 1.00
+Batch 29 Accuracy before update: 0.62
+Batch 29 Accuracy after update: 1.00
+Batch 30 Accuracy before update: 0.70
+Batch 30 Accuracy after update: 0.98
+Batch 31 Accuracy before update: 0.60
+Batch 31 Accuracy after update: 0.96
+Batch 32 Accuracy before update: 0.56
+Batch 32 Accuracy after update: 0.98
+Batch 33 Accuracy before update: 0.70
+Batch 33 Accuracy after update: 0.94
+Batch 34 Accuracy before update: 0.52
+Batch 34 Accuracy after update: 0.96
+Batch 35 Accuracy before update: 0.70
+Batch 35 Accuracy after update: 1.00
+Batch 36 Accuracy before update: 0.58
+Batch 36 Accuracy after update: 1.00
+Batch 37 Accuracy before update: 0.56
+Batch 37 Accuracy after update: 0.98
+Batch 38 Accuracy before update: 0.60
+Batch 38 Accuracy after update: 0.94
+Batch 39 Accuracy before update: 0.58
+Batch 39 Accuracy after update: 0.96
+Batch 40 Accuracy before update: 0.66
+Batch 40 Accuracy after update: 0.94
+Batch 41 Accuracy before update: 0.58
+Batch 41 Accuracy after update: 1.00
+Batch 42 Accuracy before update: 0.68
+Batch 42 Accuracy after update: 1.00
+Batch 43 Accuracy before update: 0.64
+Batch 43 Accuracy after update: 1.00
+Batch 44 Accuracy before update: 0.64
+Batch 44 Accuracy after update: 1.00
+Batch 45 Accuracy before update: 0.70
+Batch 45 Accuracy after update: 0.98
+Batch 46 Accuracy before update: 0.68
+Batch 46 Accuracy after update: 1.00
+Batch 47 Accuracy before update: 0.62
+Batch 47 Accuracy after update: 0.98
+Batch 48 Accuracy before update: 0.82
+Batch 48 Accuracy after update: 0.96
+Batch 49 Accuracy before update: 0.68
+Batch 49 Accuracy after update: 0.98
+Batch 50 Accuracy before update: 0.56
+Batch 50 Accuracy after update: 0.96
+Batch 51 Accuracy before update: 0.74
+Batch 51 Accuracy after update: 0.96
+Batch 52 Accuracy before update: 0.60
+Batch 52 Accuracy after update: 0.96
+Batch 53 Accuracy before update: 0.58
+Batch 53 Accuracy after update: 1.00
+Batch 54 Accuracy before update: 0.58
+Batch 54 Accuracy after update: 0.98
+Batch 55 Accuracy before update: 0.50
+Batch 55 Accuracy after update: 1.00
+Batch 56 Accuracy before update: 0.74
+Batch 56 Accuracy after update: 1.00
+Batch 57 Accuracy before update: 0.64
+Batch 57 Accuracy after update: 0.98
+Batch 58 Accuracy before update: 0.62
+Batch 58 Accuracy after update: 1.00
+Batch 59 Accuracy before update: 0.58
+Batch 59 Accuracy after update: 1.00
+Batch 60 Accuracy before update: 0.58
+Batch 60 Accuracy after update: 0.98
+Batch 61 Accuracy before update: 0.66
+Batch 61 Accuracy after update: 0.98
+Batch 62 Accuracy before update: 0.54
+Batch 62 Accuracy after update: 1.00
+Batch 63 Accuracy before update: 0.56
+Batch 63 Accuracy after update: 0.94
+Batch 64 Accuracy before update: 0.66
+Batch 64 Accuracy after update: 0.98
+Batch 65 Accuracy before update: 0.48
+Batch 65 Accuracy after update: 1.00
+Batch 66 Accuracy before update: 0.60
+Batch 66 Accuracy after update: 0.96
+Batch 67 Accuracy before update: 0.68
+Batch 67 Accuracy after update: 1.00
+Batch 68 Accuracy before update: 0.60
+Batch 68 Accuracy after update: 1.00
+Batch 69 Accuracy before update: 0.66
+Batch 69 Accuracy after update: 1.00
+Batch 70 Accuracy before update: 0.62
+Batch 70 Accuracy after update: 1.00
+Batch 71 Accuracy before update: 0.58
+Batch 71 Accuracy after update: 0.98
+Batch 72 Accuracy before update: 0.60
+Batch 72 Accuracy after update: 1.00
+Batch 73 Accuracy before update: 0.62
+Batch 73 Accuracy after update: 0.94
+Batch 74 Accuracy before update: 0.46
+Batch 74 Accuracy after update: 1.00
+Batch 75 Accuracy before update: 0.46
+Batch 75 Accuracy after update: 1.00
+Batch 76 Accuracy before update: 0.66
+Batch 76 Accuracy after update: 0.98
+Batch 77 Accuracy before update: 0.70
+Batch 77 Accuracy after update: 1.00
+Batch 78 Accuracy before update: 0.52
+Batch 78 Accuracy after update: 0.92
+Batch 79 Accuracy before update: 0.56
+Batch 79 Accuracy after update: 1.00
+Batch 80 Accuracy before update: 0.64
+Batch 80 Accuracy after update: 1.00
+Batch 81 Accuracy before update: 0.72
+Batch 81 Accuracy after update: 0.98
+Batch 82 Accuracy before update: 0.62
+Batch 82 Accuracy after update: 1.00
+Batch 83 Accuracy before update: 0.68
+Batch 83 Accuracy after update: 0.98
+Batch 84 Accuracy before update: 0.58
+Batch 84 Accuracy after update: 1.00
+Batch 85 Accuracy before update: 0.56
+Batch 85 Accuracy after update: 1.00
+Batch 86 Accuracy before update: 0.64
+Batch 86 Accuracy after update: 0.98
+Batch 87 Accuracy before update: 0.50
+Batch 87 Accuracy after update: 1.00
+Batch 88 Accuracy before update: 0.60
+Batch 88 Accuracy after update: 0.98
+Batch 89 Accuracy before update: 0.62
+Batch 89 Accuracy after update: 0.98
+Batch 90 Accuracy before update: 0.50
+Batch 90 Accuracy after update: 0.98
+Batch 91 Accuracy before update: 0.60
+Batch 91 Accuracy after update: 1.00
+Batch 92 Accuracy before update: 0.52
+Batch 92 Accuracy after update: 0.98
+Batch 93 Accuracy before update: 0.66
+Batch 93 Accuracy after update: 1.00
+Batch 94 Accuracy before update: 0.58
+Batch 94 Accuracy after update: 0.98
+Batch 95 Accuracy before update: 0.72
+Batch 95 Accuracy after update: 1.00
+Batch 96 Accuracy before update: 0.68
+Batch 96 Accuracy after update: 0.96
+Batch 97 Accuracy before update: 0.48
+Batch 97 Accuracy after update: 0.98
+Batch 98 Accuracy before update: 0.64
+Batch 98 Accuracy after update: 1.00
+Batch 99 Accuracy before update: 0.70
+Batch 99 Accuracy after update: 0.98
+Batch 100 Accuracy before update: 0.74
+Batch 100 Accuracy after update: 1.00
+Batch 101 Accuracy before update: 0.54
+Batch 101 Accuracy after update: 1.00
+Batch 102 Accuracy before update: 0.58
+Batch 102 Accuracy after update: 1.00
+Batch 103 Accuracy before update: 0.70
+Batch 103 Accuracy after update: 1.00
+Batch 104 Accuracy before update: 0.50
+Batch 104 Accuracy after update: 1.00
+Batch 105 Accuracy before update: 0.64
+Batch 105 Accuracy after update: 0.96
+Batch 106 Accuracy before update: 0.50
+Batch 106 Accuracy after update: 0.98
+Batch 107 Accuracy before update: 0.64
+Batch 107 Accuracy after update: 0.98
+Batch 108 Accuracy before update: 0.72
+Batch 108 Accuracy after update: 0.96
+Batch 109 Accuracy before update: 0.56
+Batch 109 Accuracy after update: 0.98
+Batch 110 Accuracy before update: 0.62
+Batch 110 Accuracy after update: 0.96
+Batch 111 Accuracy before update: 0.72
+Batch 111 Accuracy after update: 1.00
+Batch 112 Accuracy before update: 0.50
+Batch 112 Accuracy after update: 0.96
+Batch 113 Accuracy before update: 0.52
+Batch 113 Accuracy after update: 0.98
+Batch 114 Accuracy before update: 0.38
+Batch 114 Accuracy after update: 1.00
+Batch 115 Accuracy before update: 0.62
+Batch 115 Accuracy after update: 0.96
+Batch 116 Accuracy before update: 0.60
+Batch 116 Accuracy after update: 0.94
+Batch 117 Accuracy before update: 0.54
+Batch 117 Accuracy after update: 0.98
+Batch 118 Accuracy before update: 0.80
+Batch 118 Accuracy after update: 0.98
+Batch 119 Accuracy before update: 0.56
+Batch 119 Accuracy after update: 1.00
+Batch 120 Accuracy before update: 0.60
+Batch 120 Accuracy after update: 0.96
+Batch 121 Accuracy before update: 0.68
+Batch 121 Accuracy after update: 1.00
+Batch 122 Accuracy before update: 0.72
+Batch 122 Accuracy after update: 0.98
+Batch 123 Accuracy before update: 0.58
+Batch 123 Accuracy after update: 0.98
+Logistic Regression - Accuracy: 0.51, 0/1 Error: 0.49
+Decision Tree - Accuracy: 0.55, 0/1 Error: 0.45
+Mondrian Forest Approximation - Accuracy: 0.62, 0/1 Error: 0.38
