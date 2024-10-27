@@ -1,0 +1,107 @@
+Initial Outliers Detected: 7919
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/tsa/statespace/sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
+  warn('Non-stationary starting autoregressive parameters'
+/Users/iKev/.pyenv/versions/3.8.10/lib/python3.8/site-packages/statsmodels/tsa/statespace/sarimax.py:978: UserWarning: Non-invertible starting MA parameters found. Using zeros as starting parameters.
+  warn('Non-invertible starting MA parameters found.'
+Logistic Regression - Accuracy: 0.5518945634266886
+Decision Tree - Accuracy: 0.5152388797364086
+Initial Mondrian Forest Approximation - Accuracy: 0.5848434925864909
+Batch 1 Accuracy before update: 0.60
+Batch 1 Accuracy after update: 1.00
+Batch 2 Accuracy before update: 1.00
+Batch 2 Accuracy after update: 1.00
+Batch 3 Accuracy before update: 1.00
+Batch 3 Accuracy after update: 1.00
+Batch 4 Accuracy before update: 0.98
+Batch 4 Accuracy after update: 1.00
+Batch 5 Accuracy before update: 0.98
+Batch 5 Accuracy after update: 0.98
+Batch 6 Accuracy before update: 1.00
+Batch 6 Accuracy after update: 1.00
+Batch 7 Accuracy before update: 0.98
+Batch 7 Accuracy after update: 1.00
+Batch 8 Accuracy before update: 1.00
+Batch 8 Accuracy after update: 1.00
+Batch 9 Accuracy before update: 0.98
+Batch 9 Accuracy after update: 1.00
+Batch 10 Accuracy before update: 1.00
+Batch 10 Accuracy after update: 1.00
+Batch 11 Accuracy before update: 1.00
+Batch 11 Accuracy after update: 1.00
+Batch 12 Accuracy before update: 1.00
+Batch 12 Accuracy after update: 1.00
+Batch 13 Accuracy before update: 0.96
+Batch 13 Accuracy after update: 0.96
+Batch 14 Accuracy before update: 0.98
+Batch 14 Accuracy after update: 1.00
+Batch 15 Accuracy before update: 1.00
+Batch 15 Accuracy after update: 1.00
+Batch 16 Accuracy before update: 0.98
+Batch 16 Accuracy after update: 1.00
+Batch 17 Accuracy before update: 1.00
+Batch 17 Accuracy after update: 1.00
+Batch 18 Accuracy before update: 1.00
+Batch 18 Accuracy after update: 1.00
+Batch 19 Accuracy before update: 0.98
+Batch 19 Accuracy after update: 1.00
+Batch 20 Accuracy before update: 1.00
+Batch 20 Accuracy after update: 1.00
+Batch 21 Accuracy before update: 1.00
+Batch 21 Accuracy after update: 1.00
+Batch 22 Accuracy before update: 1.00
+Batch 22 Accuracy after update: 1.00
+Batch 23 Accuracy before update: 1.00
+Batch 23 Accuracy after update: 1.00
+Batch 24 Accuracy before update: 1.00
+Batch 24 Accuracy after update: 1.00
+Batch 25 Accuracy before update: 1.00
+Batch 25 Accuracy after update: 1.00
+Batch 26 Accuracy before update: 1.00
+Batch 26 Accuracy after update: 1.00
+Batch 27 Accuracy before update: 1.00
+Batch 27 Accuracy after update: 1.00
+Batch 28 Accuracy before update: 1.00
+Batch 28 Accuracy after update: 1.00
+Batch 29 Accuracy before update: 1.00
+Batch 29 Accuracy after update: 1.00
+Batch 30 Accuracy before update: 1.00
+Batch 30 Accuracy after update: 1.00
+Batch 31 Accuracy before update: 1.00
+Batch 31 Accuracy after update: 1.00
+Batch 32 Accuracy before update: 0.98
+Batch 32 Accuracy after update: 1.00
+Batch 33 Accuracy before update: 1.00
+Batch 33 Accuracy after update: 1.00
+Batch 34 Accuracy before update: 1.00
+Batch 34 Accuracy after update: 1.00
+Batch 35 Accuracy before update: 0.98
+Batch 35 Accuracy after update: 1.00
+Batch 36 Accuracy before update: 0.96
+Batch 36 Accuracy after update: 1.00
+Batch 37 Accuracy before update: 1.00
+Batch 37 Accuracy after update: 1.00
+Batch 38 Accuracy before update: 1.00
+Batch 38 Accuracy after update: 1.00
+Batch 39 Accuracy before update: 1.00
+Batch 39 Accuracy after update: 1.00
+Batch 40 Accuracy before update: 1.00
+Batch 40 Accuracy after update: 1.00
+Batch 41 Accuracy before update: 0.98
+Batch 41 Accuracy after update: 1.00
+Batch 42 Accuracy before update: 1.00
+Batch 42 Accuracy after update: 1.00
+Batch 43 Accuracy before update: 1.00
+Batch 43 Accuracy after update: 1.00
+Batch 44 Accuracy before update: 1.00
+Batch 44 Accuracy after update: 1.00
+Batch 45 Accuracy before update: 1.00
+Batch 45 Accuracy after update: 1.00
+Batch 46 Accuracy before update: 0.96
+Batch 46 Accuracy after update: 1.00
+Batch 47 Accuracy before update: 1.00
+Batch 47 Accuracy after update: 1.00
+Batch 48 Accuracy before update: 1.00
+Batch 48 Accuracy after update: 1.00
+Logistic Regression - Accuracy: 0.55, 0/1 Error: 0.45
+Decision Tree - Accuracy: 0.52, 0/1 Error: 0.48
+Mondrian Forest Approximation - Accuracy: 0.99, 0/1 Error: 0.01
