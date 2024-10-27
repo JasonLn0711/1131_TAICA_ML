@@ -1,9 +1,8 @@
+# Method 1: Compare Team Win Averages
+
 # v1d4: Using 'len()' on a sparse matrix is not allowed. Try to fix it with '.shape[0]' to determine the number of rows (samples) in the sparse matrix.
-
 # v1d3: After removing outliers, the training data has zero samples left, resulting in an empty dataset for training.
-
 # v1d2: Fix the issue in step 2 for versions of 'statsmodels', 'ARIMA.forecast' return a NumPy array, which doesn't have a '.value' attribute.
-
 # Import necessary libraries
 import pandas as pd
 import numpy as np
